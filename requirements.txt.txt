@@ -5,3 +5,6 @@ pandas==2.2.3
 openpyxl==3.1.5
 aiohttp==3.11.11
 requests==2.32.3
+pytest==8.2.2
+pytest-asyncio==0.23.7
+requests-mock==1.12.1
